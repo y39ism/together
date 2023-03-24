@@ -1,2 +1,2 @@
 # together
-## we made good site
+## we make good site
